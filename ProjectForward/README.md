@@ -1,13 +1,13 @@
-# Project Forward (Action Runner)
+# Neon Breakline (Action Runner) formerly Project Forward
 
-**Development Start:** February 11, 2026  
-**Status:** Core Mechanics Complete / In Level Design Phase
+**Development Start:** February 11, 2026
+**Status:** Published April 9, 2026
 
 **Developer Notes** 
-This game only recently started development and is in early builds.
+The game is currently out on Itch.io: https://wallzdev.itch.io/neonbreakline
 
 ### Project Overview
-Project Forward was conceived with a "Fast-to-Market" goal, focusing on rapid prototyping and efficient system architecture. The game follows an arcade-style gameplay where horizontal movement is automated, challenging the player to master rhythmic obstacle evasion through precise timing and specialized mechanics (Like the jump, slide, attack and parry).
+Neon Breakline was conceived with a "Fast-to-Market" goal, focusing on rapid prototyping and efficient system architecture. The game follows an arcade-style gameplay where horizontal movement is automated, challenging the player to master rhythmic obstacle evasion through precise timing and specialized mechanics (Like the jump, slide, attack and parry).
 
 ### Technical Implementation (Solo Developer)
 As a solo programmer, I focused on creating a robust and modular foundation to ensure smooth gameplay and ease of re-creation:
@@ -18,7 +18,4 @@ As a solo programmer, I focused on creating a robust and modular foundation to e
 * **Controller and keyboard support**
 
 ### Current Progress & Challenges
-While the **technical core and all main mechanics are mostly complete**, the project is currently in the asset integration phase:
-* **Programming:** Basically Complete.
-* **Art:** Currently in development. I am leveraging my technical skills to bridge the gap in asset creation and ensure a polished final product.
-* **Next Steps:** Designing and implementing Levels to populate the game, and making at least prototype assets to continue development.
+The game is out and will be updated with more levels and polish if there is enough support.

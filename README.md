@@ -14,7 +14,7 @@ A comprehensive development project covering the full game cycle.
 * **Goal:** Building a scalable architecture for exploration-based gameplay.
 * [📂 View Folder](./ThousandPaths)
 
-### Project Forward (2D Action Runner)
+### Neon Breakline (2D Action Runner) - Released [Itchi.io](https://wallzdev.itch.io/neonbreakline)
 A fast-paced runner focused on fluid movement and rhythmic combat mechanics.
 * **Key Systems:** Constant movement, jump, attack, slide, and parry logic.
 * **General:** Level design balancing for continuous gameplay flow.
