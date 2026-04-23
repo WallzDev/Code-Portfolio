@@ -40,7 +40,6 @@ Work performed as a Gameplay Programmer on a private project with a small team.
 
 ## 📫 Contact Information
 
-* **Email:** telpoch2004@gmail.com
+* **Email:** awallace.dev@gmail.com
 * **Location:** Coahuila, Mexico
-# CodePortfolio
 
